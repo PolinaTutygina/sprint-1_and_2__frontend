@@ -1,0 +1,12 @@
+.kaufman {
+  background-color: #1f1f1f;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  overflow: hidden; /* Добавляем это свойство, чтобы треугольник не выходил за границы */
+}

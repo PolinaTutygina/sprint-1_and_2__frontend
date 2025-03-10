@@ -1,0 +1,11 @@
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  /* выше установили ограничения для секции */
+  position: relative; /* Для абсолютного позиционирования дочерних элементов */
+  display: flex; /* Делаем header flex-контейнером */
+  justify-content: flex-start; /* Выравниваем по горизонтали (по умолчанию) */
+  align-items: center; /* Выравниваем по вертикали по центру */
+  overflow: hidden;
+}

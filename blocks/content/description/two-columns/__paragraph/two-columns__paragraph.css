@@ -1,0 +1,23 @@
+.two-columns__paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+/* Первый абзац */
+.two-columns__paragraph:first-child {
+  margin-top: 0; /* Нет отступа сверху */
+  margin-bottom: 0; /* Нет отступа снизу */
+}
+
+/* Второй абзац */
+.two-columns__paragraph:nth-child(2) {
+  margin-top: 30px; /* Отступ сверху */
+  margin-bottom: 30px; /* Отступ снизу */
+}
+
+/* Последний абзац */
+.two-columns__paragraph:last-child {
+  margin-top: 0; /* Нет отступа сверху */
+  margin-bottom: 0; /* Нет отступа снизу */
+}
