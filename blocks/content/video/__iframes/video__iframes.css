@@ -1,0 +1,8 @@
+.video__iframes {
+  display: flex;
+  gap: 20px; /* Отступы между видео */
+  justify-content: center; /* Центрирование видео по горизонтали */
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: -50px;
+}

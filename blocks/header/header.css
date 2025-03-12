@@ -8,4 +8,5 @@
   justify-content: flex-start; /* Выравниваем по горизонтали (по умолчанию) */
   align-items: center; /* Выравниваем по вертикали по центру */
   overflow: hidden;
+  background-color: #f2f2f2;
 }
