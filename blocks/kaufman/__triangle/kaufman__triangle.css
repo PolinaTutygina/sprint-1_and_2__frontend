@@ -2,7 +2,7 @@
   position: absolute;
   top: 0;
   right: -210px;
-  background-image: url(../../../../images/kaufman-triangle.svg);
+  background-image: url(../../../images/kaufman-triangle.svg);
   width: 877px; /* Ширина треугольника */
   height: 877px; /* Высота треугольника */
   background-size: cover; /* Масштабируем фоновое изображение */
